@@ -10,7 +10,7 @@ body {
     width: 100%;
     }
 
-/*Hero container*/
+/*Hero Section*/
 
 .header_container {
     display: flex;
@@ -30,6 +30,7 @@ body {
     height: 30%;
     background-size: cover;
     background-position: center;
+    color: white;
 }
 
 .hero_content {
@@ -79,4 +80,43 @@ body {
 
 .hero_button:hover {
     background-color: #2563EB;
+}
+
+/*Information section*/
+
+.info_head_text {
+    text-align: center;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.figure_container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+/*Quote section*/
+
+.quote_container {
+    background-color: #E5E7EB;
+    padding: 20px;
+    text-align: center;
+}
+
+#quote_text {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+#quote_author {
+    font-weight: bold;
+    color: #4B5563;
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: right;
+
 }
