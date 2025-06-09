@@ -7,7 +7,7 @@ An image of the index page solely made from HTML only without any CSS involved.
 <br/>
 <br/>
 <h2>To do list</h2>
-  ~~1-Add Html~~<br/>
-  ~~2-Add Css~~<br/>
+  <strike>1-Add Html</strike><br/>
+  <strike>2-Add Css</strike><br/>
   3-Add javascript<br/>
   4-Publish website on github Pages<br/>
