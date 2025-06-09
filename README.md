@@ -6,8 +6,10 @@ This is a project to practice both HTML and CSS by creating a landing page for t
 An image of the index page solely made from HTML only without any CSS involved.
 <br/>
 <br/>
-<h1>To do list</h1>
+<h2>To do list</h2>
+  <p style="text-decoration-line: line-through;">
   1-Add Html<br/>
   2-Add Css<br/>
   3-Add javascript<br/>
   4-Publish website on github Pages<br/>
+  </p>
