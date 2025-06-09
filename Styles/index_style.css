@@ -109,7 +109,7 @@ body {
 #quote_text {
     font-size: 36px;
     color: #1F2937;
-    font-style: italic;
+    font-style: light italic;
 }
 
 #quote_author {
@@ -119,4 +119,55 @@ body {
     margin-top: 10px;
     text-align: right;
 
+}
+
+/*call to action section*/
+
+.call_to_action_container {
+    width: 80%;
+    margin: 10% auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 20px;
+    border-radius: 10px;
+    flex-direction: column;
+    align-items: center;
+    }
+
+#call_hero_header {
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 5px;
+}
+
+#call_text {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+#call_button {
+    background-color: #F9FAF8;
+    color: #111827;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+#call_button:hover {
+    background-color: #E5E7EB;
+    color: #1F2937;
+}
+
+/*Footer section*/
+
+.footer_container {
+    background-color: #111827;
+    color: #F9FAF8;
+    padding: 20px;
+    text-align: center;
 }
