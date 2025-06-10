@@ -9,5 +9,6 @@ An image of the index page solely made from HTML only without any CSS involved.
 <h2>To do list</h2>
   <strike>1-Add Html</strike><br/>
   <strike>2-Add Css</strike><br/>
-  3-Add javascript<br/>
-  4-Publish website on github Pages<br/>
+  <strike>3-Adjust for mobile</strike><br/>
+  4-Add javascript<br/>
+  5-Publish website on github Pages<br/>
